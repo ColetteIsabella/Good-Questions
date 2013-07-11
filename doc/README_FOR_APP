@@ -1,2 +1,3 @@
-Use this README file to introduce your application and point to useful places in the API for learning more.
-Run "rake doc:app" to generate API documentation for your models, controllers, helpers, and libraries.
+Initially, a very basic question storage app,
+Using rails3
+and 'https://rubygems.org'

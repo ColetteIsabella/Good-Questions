@@ -1,0 +1,2 @@
+module GoodQuestionsHelper
+end

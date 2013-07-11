@@ -1,0 +1,15 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Question:</b>
+  <%= @good_question.question %>
+</p>
+
+<p>
+  <b>Why:</b>
+  <%= @good_question.why %>
+</p>
+
+
+<%= link_to 'Edit', edit_good_question_path(@good_question) %> |
+<%= link_to 'Back', good_questions_path %>
